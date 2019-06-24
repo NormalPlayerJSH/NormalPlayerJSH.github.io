@@ -3,4 +3,4 @@ asdfasdfasdf
 - asdfasdf
 - 11111
 * 123123
-*[My page](/articles/1.html)
+* [Go To 1](/articles/1.html)
