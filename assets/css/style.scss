@@ -11,7 +11,7 @@
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
     .main-content {
-        font-size: 1.5rem
+        font-size: 1.5rem;
     }
 }
 
@@ -19,4 +19,8 @@
     .main-content {
         font-size: 1.3rem;
     }
+}
+
+.main-content table{
+    font-size: 1.1rem;
 }
