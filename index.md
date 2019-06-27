@@ -9,3 +9,5 @@ title: ICPA 3학년 1학기 기말고사 영어 본문
 * Lesson 18 - [Gateway](/articles/67.html)  [1](/articles/68.html)  [2](/articles/69.html)  [3](/articles/70.html)  [4](/articles/71.html)
 * Lesson 19 - [Gateway](/articles/72.html)  [1](/articles/73.html)  [2](/articles/74.html)  [3](/articles/75.html)  [4](/articles/76.html)
 * 6월 모평 - [18](/articles/77.html)  [19](/articles/78.html)  [20](/articles/79.html)  [21](/articles/80.html)  [22](/articles/81.html)  [23](/articles/82.html)  [24](/articles/83.html)  [26](/articles/84.html)  [29](/articles/85.html)  [30](/articles/86.html)  [31](/articles/87.html)  [32](/articles/88.html)  [33](/articles/89.html)  [34](/articles/90.html)  [35](/articles/91.html)  [36](/articles/92.html)  [37](/articles/93.html)  [38](/articles/94.html)  [39](/articles/95.html)  [40](/articles/96.html)  [41~42](/articles/97.html)  [43~45](/articles/98.html)  
+### ChangeLog
+* TEST 1, 2, 3에 한하여 영어 본문 밑에 단어 및 해석이 추가되었습니다. (2019-06-27 20:20)
