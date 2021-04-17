@@ -25,8 +25,8 @@ var text=`# 프로젝트 경험
 			html      = converter.makeHtml(text);
 			document.getElementById('content-md-1').innerHTML+=html
 
-var text=`## 현재 작성중
+var text2=`## 현재 작성중
 자유소개 작성 예정입니다. 상단부분은 HTML 태그 입력 테스트 중입니다. `
-		var converter = new showdown.Converter(),
-			html      = converter.makeHtml(text);
-			document.getElementById('content-md-2').innerHTML+=html
+		var converter2 = new showdown.Converter(),
+			html2      = converter2.makeHtml(text2);
+			document.getElementById('content-md-2').innerHTML+=html2
