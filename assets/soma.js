@@ -30,3 +30,10 @@ var text2=`## 현재 작성중
 		var converter2 = new showdown.Converter(),
 			html2      = converter2.makeHtml(text2);
 			document.getElementById('content-md-2').innerHTML+=html2
+for(const a of document.getElementById('content-md-1).getElementsByTagName('a')){
+	a.setAttribute('target','_blank')
+    }
+    
+    for(const a of document.getElementById('content-md-2).getElementsByTagName('a')){
+	a.setAttribute('target','_blank')
+    }
